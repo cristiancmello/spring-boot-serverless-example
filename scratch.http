@@ -1,0 +1,6 @@
+
+### GET /users in N. Virginia
+GET https://gdeoofmctl.execute-api.us-east-1.amazonaws.com/dev/users
+
+### GET /users in Sao Paulo
+GET https://z34g0ijwz9.execute-api.sa-east-1.amazonaws.com/dev/users
